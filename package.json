@@ -1,0 +1,23 @@
+{
+  "name": "dsdevops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/NewGit1999/Dsdevops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewGit1999/Dsdevops/issues"
+  },
+  "homepage": "https://github.com/NewGit1999/Dsdevops#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "supertest": "^6.3.4"
+  }
+}
